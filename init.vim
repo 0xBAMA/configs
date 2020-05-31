@@ -477,6 +477,9 @@ let g:polyglot_disabled = ['python']
 let python_highlight_all = 1
 
 
+" Clear last search highlighting
+map <Space> :noh<cr>
+
 
 "*****************************************************************************
 "*****************************************************************************
