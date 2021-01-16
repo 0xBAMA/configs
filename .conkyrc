@@ -1,6 +1,5 @@
 conky.config = {
 -- placement
-  -- alignment = 'top_left',
   alignment = 'top_right',
   gap_x = 1,
   gap_y = 1,
